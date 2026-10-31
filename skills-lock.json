@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "crewai": {
+      "source": "sickn33/agentic-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/crewai/SKILL.md",
+      "computedHash": "55427adcc86af59872bb2d4bec529e798534615e00fc37207fd8c54718e8495a"
+    },
+    "kubernetes-deployment": {
+      "source": "sickn33/agentic-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/kubernetes-deployment/SKILL.md",
+      "computedHash": "8303852f1ec80044ee6f4860b37db0e45c23c5f116025a1ffaff0ff093f44195"
+    },
+    "terraform-skill": {
+      "source": "sickn33/agentic-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "skills/terraform-skill/SKILL.md",
+      "computedHash": "0c71e0415188aa337f23831159fbc3bb269796c3421bb1f6fa6ed4df82b86f56"
+    }
+  }
+}
